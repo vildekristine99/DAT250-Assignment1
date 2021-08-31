@@ -1,4 +1,4 @@
-# DAT250-Assignment1
+# DAT250-Assignment 1
 
 The download itself tok a small amount of time. I had the JDK, Eclipse and Git client already. I am a little unsure if I managed to install Maven correctly.
 
