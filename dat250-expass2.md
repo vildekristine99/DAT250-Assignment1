@@ -1,9 +1,9 @@
 # DAT250: Software Technology Experiment Assignment 2
 ## Experiment 1
 ### Step 4.3 - 5
-Det var vanskelig å følge tutorialen som vi skulle følge. Det var uklart hvilke steg vi skulle gjøre og hvilken kildekode vi skulle bruke. Mye av forvirringen kom fra at vi først fikk utdelt kode, men videre i tutorialen blir man bedt om å lage et nytt java prosjekt, men vi burde laget et maven prosjekt og/eller bruke prosjektet vi hentet fra git som utgangspunkt på nytt.
+It was extremely difficult to follow the tutorial given. The steps was difficult to follow and I didn't realy understand which source code we were expected to use. Much of the confusion came from the fact that we were first given a code, but later in the tutorial you are asked to create a new java project. I then found out we actually needed to create a maven project and / or use the project we took from git as a starting point again.
 
-For å se på databasen brukte jeg ij i command line (https://www.vogella.com/tutorials/ApacheDerby/article.html)
+To look into the database i used ij in the command line (https://www.vogella.com/tutorials/ApacheDerby/article.html)
 ![image](https://user-images.githubusercontent.com/42578149/133001086-65f98ad5-08e5-4ad5-9749-f8dfa129d964.png)
 
 Link: https://github.com/vildekristine99/DAT250_Experiment1a
