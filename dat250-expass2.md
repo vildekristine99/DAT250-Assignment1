@@ -23,4 +23,8 @@ I had som difficulties understanding what was expected in the assignment, but on
 
 ![image](https://user-images.githubusercontent.com/42578149/133001986-2db90249-a459-474f-bd05-28938a6f7092.png)
 
+I think my main mathod where I added to the tables must hav been done worng. This is how the creditcard table looked like
+![image](https://user-images.githubusercontent.com/42578149/133002070-702e6ade-71bc-4b94-a559-590b5a4f8a22.png)
+
+
 Link: https://github.com/vildekristine99/DAT250_Experiment2
