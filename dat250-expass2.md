@@ -29,6 +29,7 @@ I think my main mathod where I added to the tables must hav been done worng. Thi
 I think I could have made the relationships stricter to easier connect everything. Like one person per one address, but I feel like this is more realistic. 
 
 I used Set/HashSet so there are no duplicates.
+
 ps: also found out at the end that i have consistently writen address wrong:)
 
 Link: https://github.com/vildekristine99/DAT250_Experiment2
