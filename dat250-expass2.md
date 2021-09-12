@@ -26,6 +26,10 @@ I had som difficulties understanding what was expected in the assignment, but on
 I think my main mathod where I added to the tables must hav been done worng. This is how the creditcard table looked like
 ![image](https://user-images.githubusercontent.com/42578149/133002070-702e6ade-71bc-4b94-a559-590b5a4f8a22.png)
 
+I think I could have made the relationships stricter to easier connect everything. Like one person per one address, but I feel like this is more realistic. 
+
+I used Set/HashSet so there are no duplicates.
+ps: also found out at the end that i have consistently writen address wrong:)
 
 Link: https://github.com/vildekristine99/DAT250_Experiment2
 
