@@ -29,4 +29,5 @@ I think my main mathod where I added to the tables must hav been done worng. Thi
 
 Link: https://github.com/vildekristine99/DAT250_Experiment2
 
-I dont feel like the assignment should have taken as much time as it did, but every step on the way a new small problem or a step with little to no information. Very confusing and not all fitting.
+## Summary
+I dont feel like the assignment should have taken as much time as it did, but every step on the way a new small problem or a step with little to no information slow down the progress. Very confusing and not a all fitting tutorial.
