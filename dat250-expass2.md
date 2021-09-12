@@ -9,7 +9,8 @@ Link: https://github.com/vildekristine99/DAT250_Experiment1a
 
 ## Experiment 1b
 Here we were going to make a new java project, but I just got errors on the tests. Insted I copied the jpp-basic project that was released, and used it as a starting point.
-Picture of successful test: \n
+Picture of successful test:
+
 ![image](https://user-images.githubusercontent.com/42578149/133001289-3f92753c-b42a-4a02-92ff-f92ebc15ff6e.png)
 
 Link: https://github.com/vildekristine99/DAT250_Experiment1b
