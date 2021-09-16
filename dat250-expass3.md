@@ -22,3 +22,7 @@ I went well, here are some screenshot off what I did. I forgot to take a screen 
 Here is a screenshot form the tutorial:
 ![image](https://user-images.githubusercontent.com/42578149/133612608-3fcc340b-c682-46b0-add6-b30dcdfe3816.png)
 
+Here is the function i made:
+![image](https://user-images.githubusercontent.com/42578149/133617440-53c13f82-c71d-4bb0-a37f-ed029245802b.png)
+
+
