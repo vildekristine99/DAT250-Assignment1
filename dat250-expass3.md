@@ -25,4 +25,8 @@ Here is a screenshot form the tutorial:
 Here is the function i made:
 ![image](https://user-images.githubusercontent.com/42578149/133617440-53c13f82-c71d-4bb0-a37f-ed029245802b.png)
 
+The functions I made help us se how many oranges in total everyone bought. It could also be extended in a way so all oranges in total was calculated to get the monthley or weekly amout off oranges sold.
+
+
+
 
