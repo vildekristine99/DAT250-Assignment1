@@ -9,6 +9,7 @@ I didnt understand that the JSON was ment to be in body -> raw, but other than t
 
 ## Oppgave 2
 I had some trouble understanding what we were supposed to do with the todo-class and what in the counter example was spark. 
-I didn't do it wiht a database, and there i had som problems with id and the generation of that. I made a solution, but when deleted the id doesn become available. 
+I didn't do it with a database, and there I had som problems with id and the generation of that. I made a solution, but when deleted the id doesn't become available.
 
+Link to my solution:
 https://github.com/vildekristine99/Experiment4
