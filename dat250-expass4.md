@@ -18,6 +18,8 @@ Pictures:
 ![image](https://user-images.githubusercontent.com/42578149/134726123-5613fe08-fb21-46b1-8af0-6d7e5fcb724e.png)
 ![image](https://user-images.githubusercontent.com/42578149/134726147-9a9a9d08-86ff-48d2-bf29-1938bba2907d.png)
 ![image](https://user-images.githubusercontent.com/42578149/134726192-552beb9a-17e1-4c84-a89a-56cb842fd706.png)
+![image](https://user-images.githubusercontent.com/42578149/134726314-27868a77-913a-4276-9863-d3ae35bfae37.png)
+
 
 
 Link to my solution:
