@@ -15,3 +15,4 @@ I had to install springboot CLI via Scoop i Windows Powershell. Then it didnt wo
 ![image](https://user-images.githubusercontent.com/42578149/135455264-cbfc2826-9df1-4c53-a469-886389bb341e.png)
 
 ## REST Service
+![image](https://user-images.githubusercontent.com/42578149/135458867-b70a27ea-5e31-454a-b529-b27849f53e27.png)
