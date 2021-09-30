@@ -1,6 +1,6 @@
 # Experiment 5
 
-link to all code: 
+link to all code: https://github.com/vildekristine99/Experiment5
 
 ## Getting started
 ![image](https://user-images.githubusercontent.com/42578149/135455331-3d7842e5-21f1-4fc0-bdb2-75a40f08b8f1.png)
