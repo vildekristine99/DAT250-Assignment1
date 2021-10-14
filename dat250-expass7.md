@@ -2,7 +2,7 @@
 
 The tutorial was very difficult to understand. I had troubles knowing what to do other than write exactly what they had in the code document at the end. But i could understand it eventually. The worst part was the commands to use in terminal that didnt work. Most of my time went to finding out what worked at my computer. The jar files was a mess to use. 
 
-Here is the link to the code genereted:
+Here is the link to the code genereted: https://github.com/vildekristine99/Experiment7
 
 Here is some photos from terminal:
 
