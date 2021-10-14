@@ -1,0 +1,9 @@
+# Experiment 7
+
+Here is some photos from terminal:
+![image](https://user-images.githubusercontent.com/42578149/137312932-ac5e5395-16d3-4ece-b94d-59ca5502da04.png)
+![image](https://user-images.githubusercontent.com/42578149/137312947-901cb28d-6459-4164-8828-565a55fbf924.png)
+![image](https://user-images.githubusercontent.com/42578149/137312966-d37b1eef-dd90-4259-b20c-3a68b70522bb.png)
+![image](https://user-images.githubusercontent.com/42578149/137312984-d168f75f-60f6-4617-a88e-0536e7a495c7.png)
+![image](https://user-images.githubusercontent.com/42578149/137313012-3359e69b-4883-4cdd-838a-ad647051c93e.png)
+![image](https://user-images.githubusercontent.com/42578149/137313029-f4eab614-0502-4fad-8a24-e2902130bbbe.png)
